@@ -1,3 +1,5 @@
+package mpr.exs;
+
 /*
  * a) Zmodyfikuj kod „generatora liczb pierwszych” PrimesGen tak, żeby
  *    zamiast tablic wykorzystywał listy. W szczególności wynikiem metody
